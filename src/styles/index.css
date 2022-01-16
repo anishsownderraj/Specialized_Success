@@ -1,14 +1,3 @@
-/* body {
-  /* margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
-
-/* * {
-} */
-
 body {
   background-color: #0a092d;
   display: flex;
@@ -66,7 +55,6 @@ body {
   text-align: center;
 }
 
-/* ANSWERS/RIGHT SECTION */
 .answer-section {
   width: 100%;
   display: flex;
@@ -87,14 +75,6 @@ button {
   border: 5px solid #234668;
   cursor: pointer;
 }
-
-/* .correct {
-  background-color: #2f922f;
-}
-
-.incorrect {
-  background-color: #ff3333;
-} */
 
 button:hover {
   background-color: #ffcd1f;
