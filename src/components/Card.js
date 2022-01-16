@@ -41,6 +41,126 @@ class Card extends React.Component {
 				{ answerText: 'Know 3+ languages'},
 			],
 		},
+
+        {
+			question: 'How many projects have you completed?',
+			answers: [
+				{ answerText: 'None'},
+				{ answerText: '1 project'},
+				{ answerText: '2-5 projects'},
+				{ answerText: "6+ projects"},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Algorithms? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Data Structures? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Artificial Intelligence? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Databases? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Front-end Development? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Back-end Development? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Network? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Cyber Security? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Computer Architecture? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
+
+        {
+			question: 'How confident do you feel in Computer Graphics? (1=Horrible, 5=Great)',
+			answers: [
+				{ answerText: '1'},
+				{ answerText: '2'},
+				{ answerText: '3'},
+				{ answerText: "4"},
+                { answerText: '5'},
+			],
+		},
 	]
 }
 // Sets card to diff question
