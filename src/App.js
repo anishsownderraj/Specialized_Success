@@ -21,16 +21,11 @@ const App = () => {
 
 		return(
 			<div>
-
 				<NavBar></NavBar>
 					<Routes>
-						<Route exact path="/" element={<Login navigate={navigate} />} />
+						<Route exact path="/login" element={<Login navigate={navigate} />} />
 						<Route exact path="/card" element={<Card onResult={set_score} navigate={navigate}/>} />
 						<Route exact path="/results" element={<Results value={total_score}/>}  />
-
-
-
-
 					</Routes>
 
 			</div>

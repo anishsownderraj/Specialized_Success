@@ -64,7 +64,7 @@ class Card extends React.Component {
 			],
 		},
         {
-			question: 'How confident do you feel in Artificial Intelligence? (1=Low, 5=High)',
+			question: 'How confident do you feel in Computer Architecture? (1=Low, 5=High)',
 			answers: [
 				{ answerText: '1'},
 				{ answerText: '2'},
