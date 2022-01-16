@@ -174,7 +174,7 @@ changeCard = (e) => {
                 <div className='title-style' style={{padding:'5px',background:'#73AD21',borderRadius:'25px',position: 'absolute',top:'100px',left:'8px'}}>Let's get a better knowledge about your software engineering experince</div>
                 <div className='question-section'>
 						<div className='question-count'>
-							<span>Question {this.state.curr_index + 1}</span>/{4}
+							<span>Question {this.state.curr_index + 1}</span>/{15}
 						</div>
 						<div className='question-text'>{this.state.questions[this.state.curr_index].question}</div>
 					</div>
