@@ -4,6 +4,7 @@ import { useNavigate } from "react-router";
 import NavBar from './components/NavBar'
 import Card from './components/Card';
 import Results from './components/Results';
+import Login from './components/Login'
 import './styles/index.css';
 import './styles/NavBar.css';
 
@@ -23,7 +24,8 @@ const App = () => {
 
 				<NavBar></NavBar>
 					<Routes>
-						<Route exact path="/" element={<Card onResult={set_score} navigate={navigate}/>} />
+						<Route exact path="/" element={<Login navigate={navigate} />} />
+						<Route exact path="/card" element={<Card onResult={set_score} navigate={navigate}/>} />
 						<Route exact path="/results" element={<Results value={total_score}/>}  />
 
 
