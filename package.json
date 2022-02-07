@@ -2,7 +2,7 @@
   "name": "edu_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anishsownderraj.github.io",
+  "homepage": "https://anishsownderraj.github.io/education_app/",
   "dependencies": {
     "-": "^0.0.1",
     "@react-navigation/native": "^6.0.6",
@@ -47,7 +47,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "mini-css-extract-plugin": "2.4.5"
   },
   "resolutions": {
     "mini-css-extract-plugin": "2.4.5"
