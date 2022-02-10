@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/anishsownderraj/Specialized_Success.git/static/css/main.d0ff8619.css",
-    "main.js": "/anishsownderraj/Specialized_Success.git/static/js/main.b16b2af4.js",
-    "index.html": "/anishsownderraj/Specialized_Success.git/index.html",
-    "main.d0ff8619.css.map": "/anishsownderraj/Specialized_Success.git/static/css/main.d0ff8619.css.map",
-    "main.b16b2af4.js.map": "/anishsownderraj/Specialized_Success.git/static/js/main.b16b2af4.js.map"
+    "main.css": "/Specialized_Success/static/css/main.d0ff8619.css",
+    "main.js": "/Specialized_Success/static/js/main.dbeb6556.js",
+    "index.html": "/Specialized_Success/index.html",
+    "main.d0ff8619.css.map": "/Specialized_Success/static/css/main.d0ff8619.css.map",
+    "main.dbeb6556.js.map": "/Specialized_Success/static/js/main.dbeb6556.js.map"
   },
   "entrypoints": [
     "static/css/main.d0ff8619.css",
-    "static/js/main.b16b2af4.js"
+    "static/js/main.dbeb6556.js"
   ]
 }

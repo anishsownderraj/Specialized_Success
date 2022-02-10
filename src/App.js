@@ -23,7 +23,7 @@ const App = () => {
 			<div>
 				<NavBar></NavBar>
 					<Routes>
-						<Route exact path="/" element={<Login navigate={navigate} />} />
+						<Route exact path="Specialized_Success/" element={<Login navigate={navigate} />} />
 						<Route exact path="/card" element={<Card onResult={set_score} navigate={navigate}/>} />
 						<Route exact path="/results" element={<Results value={total_score}/>}  />
 					</Routes>
